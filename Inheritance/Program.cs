@@ -30,7 +30,7 @@ namespace Inheritance
              */
 
             /*Create an object of your Reptile class
-             *  give values to your members using the object of your Bird class
+             *  give values to your members using the object of your Reptile class
              *  
              * Creatively display the class member values 
              */
